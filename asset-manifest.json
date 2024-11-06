@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolioTemplate-master/static/css/main.15c4df0e.css",
+    "main.js": "/ReactPortfolioTemplate-master/static/js/main.d64d743b.js",
+    "index.html": "/ReactPortfolioTemplate-master/index.html",
+    "main.15c4df0e.css.map": "/ReactPortfolioTemplate-master/static/css/main.15c4df0e.css.map",
+    "main.d64d743b.js.map": "/ReactPortfolioTemplate-master/static/js/main.d64d743b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15c4df0e.css",
+    "static/js/main.d64d743b.js"
+  ]
+}
